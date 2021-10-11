@@ -10,6 +10,8 @@
 }
 
 .banner{
+	width: 98%;
+	margin: 0 auto;
 	background-image: url(images/africa-15428_1920.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -47,7 +49,7 @@ h4{
 	margin-left: 0px;
 	margin-bottom: 25px;
 	color: yellow;
-	font-size: 65px;
+	font-size: 50px;
 	font-weight: 500;
 	letter-spacing: 2px;
 	font-family: 'Cabin', sans-serif;
