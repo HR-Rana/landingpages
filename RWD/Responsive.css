@@ -149,8 +149,9 @@
 		margin: 0 auto;
 	}
 	.banner h2{
-	font-size: 30px;
-	margin-top: 50px;
+		display: flex;
+	font-size: 24px;
+	margin-top: 15px;
 	margin-left: 0px;
 	font-weight: 700;
 	}
@@ -180,8 +181,16 @@
 	.first-content{
 	margin-top: 30px;
 	}
-	.
-.solution-area{
+	.solution-area h2{
+		margin-top: 100px;
+		padding-top: 50px;
+		text-align: left;
+
+	}
+	.solu-content{
+		margin-top: -50px;
+	}
+	.solution-area{
 	background-color: #dddd;
 	margin-top: 20px 0px;
 	padding: 05px 0px;
