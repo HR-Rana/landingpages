@@ -120,6 +120,10 @@
 	.first-content{
 		margin-left: 10px;
 	}
+	.banner{
+	height: 75vh;
+
+	}
 	.content-body{
 		width:300px;
 	
